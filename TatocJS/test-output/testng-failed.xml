@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="AllTestTatoc">
+        <methods>
+          <include name="test002_BasicCourse"/>
+          <include name="test006_DragDropBox"/>
+          <include name="test003_redBox"/>
+          <include name="test004_GreenBox"/>
+          <include name="test005_testFrame"/>
+          <include name="test007_launchPopUp"/>
+          <include name="test008_cookieHandling"/>
+        </methods>
+      </class> <!-- AllTestTatoc -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
